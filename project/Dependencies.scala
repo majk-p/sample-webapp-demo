@@ -7,7 +7,6 @@ object Versions {
   val Tapir = "0.18.0-M15"
   val Sttp = "3.3.6"
   val SttpOAuth2 = "0.10.0"
-  val GithubGraphQL = "0.9.5-2"
 }
 
 object Dependencies {
